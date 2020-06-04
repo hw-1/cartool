@@ -17,7 +17,7 @@
 		B06C818517934BA30082BD37 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
+			dstPath = /usr/share/man/man1;
 			dstSubfolderSpec = 0;
 			files = (
 				B06C819217934BA30082BD37 /* cartool.1 in CopyFiles */,
@@ -126,6 +126,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = B06C817E17934BA30082BD37;
